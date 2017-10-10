@@ -80,3 +80,7 @@ deploy:
   type: git
   repo: git@github.com:rexlee8776/rexlee8776.github.io.git
   branch: master
+
+# favicon config
+## Place your favicon.ico to /source directory
+  favicon: /favicon.png
